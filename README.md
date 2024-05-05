@@ -16,3 +16,14 @@ Enigma-X is a band known for its innovative music and captivating performances. 
 ## Usage
 
 1. Clone the repository:
+
+2. Open `index.html` in your web browser to view the website.
+
+## Credits
+
+- Background stars pattern: [Transparent Textures](https://www.transparenttextures.com/)
+- Loading animation inspiration: [CodePen](https://codepen.io/)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
